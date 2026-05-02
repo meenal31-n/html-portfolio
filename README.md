@@ -1,4 +1,4 @@
 # Basic HTML Website
 
 ## Project URL
-https://curious-otter-91cdf1.netlify.app/
+https://roadmap.sh/projects/basic-html-website
