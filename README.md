@@ -1,4 +1,4 @@
 # Basic HTML Website
 
 ## Project URL
-https://meenal31-n.github.io/html-portfolio/
+https://curious-otter-91cdf1.netlify.app/
